@@ -6,3 +6,12 @@ manifest.mf
 nbproject/
 /build/
 /dist/
+src/clase/Debate.java
+
+usuarios.txt
+
+*.txt~
+
+debate.txt
+
+apodos.txt
